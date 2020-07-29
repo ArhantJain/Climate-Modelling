@@ -1,6 +1,6 @@
 # Climate-Modelling
 
-References for DE Project 
+References for the Project 
 
 
 1. Sellers, W. 1969. A global climatic model based on the energy balance of the earth-atmosphere system. Journal of Applied Meteorology 8: 392–400.
